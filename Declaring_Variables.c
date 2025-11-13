@@ -21,6 +21,7 @@ int main()
     printf("Sample push");
 
     printf("Sample branch");
+    printf("Sample 2-lab-a branch");
 
     return 0;
 }

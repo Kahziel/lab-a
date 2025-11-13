@@ -20,5 +20,7 @@ int main()
     printf("'%c' is a high grade to achieve.", Grade);
     printf("Sample push");
 
+    printf("Sample branch");
+
     return 0;
 }

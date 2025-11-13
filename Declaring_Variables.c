@@ -18,6 +18,7 @@ int main()
     printf("My goal is to get a %.2f GPA.\n", GPA);
     printf("These are some digits of Pi %lf\n", Pi);
     printf("'%c' is a high grade to achieve.", Grade);
+    printf("Sample push");
 
     return 0;
 }
